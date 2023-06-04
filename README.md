@@ -43,6 +43,18 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#shodiqimp-tech">
+        <img src="./img/golang-1.svg" width="48" height="48" alt="javascript" />
+      </a>
+      <br>GO
+    </td>
+    <td align="center" width="96">
+      <a href="#shodiqimp-tech">
+        <img src="./img/nodejs-1.svg" width="48" height="48" alt="javascript" />
+      </a>
+      <br>Node JS
+    </td>
+    <td align="center" width="96">
+      <a href="#shodiqimp-tech">
         <img src="./img/laravel-2.svg" width="48" height="48" alt="laravel" />
       </a>
       <br>Laravel
