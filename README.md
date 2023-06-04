@@ -67,7 +67,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="96">
       <a href="#shodiqimp-tech">
-        <img src="./img/mysql-2.svg" width="48" height="48" alt="Mysql" />
+        <img src="./img/mysql-3.svg" width="48" height="48" alt="Mysql" />
       </a>
       <br>MySQL
     </td>
