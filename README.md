@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="left" id="shodiqimp-title">:wave: Hello there! I'm Shodiq Imam Purnomo</h1>
 
 <!--
 **shodiqimamp/shodiqimamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
