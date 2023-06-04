@@ -31,39 +31,45 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="96">
       <a href="#shodiqimp-tech">
-        <img src="./img/php-1.svg" width="48" height="48" alt="php" />
+        <img src="./img/php-1.svg" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
     <td align="center" width="96">
       <a href="#shodiqimp-tech">
-        <img src="./img/logo-javascript.svg" width="48" height="48" alt="javascript" />
+        <img src="./img/logo-javascript.svg" width="48" height="48" alt="Javascript" />
       </a>
       <br>Javascript
     </td>
     <td align="center" width="96">
       <a href="#shodiqimp-tech">
-        <img src="./img/golang-1.svg" width="48" height="48" alt="javascript" />
+        <img src="./img/golang-1.svg" width="48" height="48" alt="Golang" />
       </a>
       <br>GO
     </td>
     <td align="center" width="96">
       <a href="#shodiqimp-tech">
-        <img src="./img/nodejs-1.svg" width="48" height="48" alt="javascript" />
+        <img src="./img/nodejs-1.svg" width="48" height="48" alt="NodeJS" />
       </a>
       <br>Node JS
     </td>
     <td align="center" width="96">
       <a href="#shodiqimp-tech">
-        <img src="./img/laravel-2.svg" width="48" height="48" alt="laravel" />
+        <img src="./img/laravel-2.svg" width="48" height="48" alt="Laravel" />
       </a>
       <br>Laravel
     </td>
     <td align="center" width="96">
       <a href="#shodiqimp-tech">
-        <img src="./img/flutter-logo.svg" width="48" height="48" alt="flutter" />
+        <img src="./img/flutter-logo.svg" width="48" height="48" alt="Flutter" />
       </a>
       <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#shodiqimp-tech">
+        <img src="./img/mysql-2.svg" width="48" height="48" alt="Mysql" />
+      </a>
+      <br>MySQL
     </td>
   </tr>
 </table>
